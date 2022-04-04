@@ -10,7 +10,7 @@
     },
       {
       "id": 2
-      "type": "Apartament"
+      "type": "Apartament",
       "details": "This apartament is finished and fully furnished.....",
       "price": 250000,
       "town": "Tarxien",
