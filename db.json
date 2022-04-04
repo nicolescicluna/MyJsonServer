@@ -1,7 +1,7 @@
 {
   "properties": [
     {
-      "id: 1,
+      "id": 1,
       "type": "House of Character",
       "details": "This house of character is tucked away in an alley .....",
       "price": 500000,
@@ -9,10 +9,10 @@
       "finished": false
     },
       {
-      "id: 2
+      "id": 2
       "type": "Apartament"
-      "details": "This apartament is finished and fully furnished
-      "price": 500000,
+      "details": "This apartament is finished and fully furnished.....",
+      "price": 250000,
       "town": "Tarxien"
       "finished": true
     }
