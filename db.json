@@ -3,7 +3,7 @@
       {
           "id": 1,
           "title": "Task 1",
-          "description": "Description for task 1",
+          "description": "This is Description for task 1",
           "duration": "1 hr",
           "date": "1st of Jan",
           "time": "12.00"
