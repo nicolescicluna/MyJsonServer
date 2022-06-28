@@ -2,51 +2,51 @@
   "tasks":[
       {
           "id": 1,
-          "title": "Task 1",
-          "description": "This is Description for task 1",
+          "title": "Buy dog food",
+          "description": "Pet food for tommy",
           "duration": "1 hr",
-          "date": "1st of Jan",
-          "time": "12.00"
+          "date": "1st of Jul",
+          "time": "09.00"
         },
         {
           "id": 2,
-          "title": "Task 2",
-          "description": "Description for task 2",
-          "duration": "2 hrs",
-          "date": "1st of Jan",
-          "time": "12.00"
+          "title": "Nicole's Birthday",
+          "description": "Pick up cake",
+          "duration": "1 hr",
+          "date": "1st of Jul",
+          "time": "10.00"
         },
         {
           "id": 3,
-          "title": "Task 3",
-          "description": "Description for task 3",
-          "duration": "3 hrs",
-          "date": "1st of Jan",
-          "time": "12.00"
+          "title": "Jake",
+          "description": "Pick up Jake from school",
+          "duration": "30 min",
+          "date": "29th of Jun",
+          "time": "11.45"
         },
       {
           "id": 4,
-          "title": "Task 4",
-          "description": "Description for task 4",
-          "duration": "5 hrs",
-          "date": "1st of Jan",
-          "time": "12.00"
+          "title": "Hair Appointment",
+          "description": "New hair style",
+          "duration": "3 hrs",
+          "date": "29th of Jun",
+          "time": "13.00"
         },
     {
           "id": 5,
-          "title": "Task 5",
-          "description": "Description for task 5",
-          "duration": "1 hr",
-          "date": "1st of Jan",
-          "time": "12.00"
+          "title": "CSS Lecture",
+          "description": "CSS online lecture",
+          "duration": "2 hrs",
+          "date": "28th of Jun",
+          "time": "09.00"
         },
     {
           "id": 6,
-          "title": "Task 6",
-          "description": "Description for task 6",
+          "title": "Art Lecture",
+          "description": "Online lecture",
           "duration": "3 hrs",
-          "date": "1st of Jan",
-          "time": "12.00"
+          "date": "28th of Jun",
+          "time": "13.00"
         }
     
   ]
